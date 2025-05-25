@@ -2,6 +2,9 @@
 
 A classic Snake game implementation in C with colorful graphics and smooth controls. The game features a dynamic color-changing snake that changes its color each time it eats a fruit.
 
+## Author
+- **Shikha Shetgeri** ([@shetgerishikha](https://github.com/shetgerishikha))
+
 ## Features
 
 - 🎮 Intuitive arrow key controls
